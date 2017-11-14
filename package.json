@@ -26,6 +26,8 @@
   "devDependencies": {
     "cypress": "^1.0.3",
     "prettier": "^1.8.1",
-    "tslint": "^5.8.0"
+    "tslint": "^5.8.0",
+    "tslint-config-prettier": "^1.6.0",
+    "tslint-react": "^3.2.0"
   }
 }
